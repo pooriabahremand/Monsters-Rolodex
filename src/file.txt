@@ -1,0 +1,7 @@
+this.setState(
+                () => {
+                  return { firstname: "Tahere", lastname: "niyazi" };
+                },
+                () => {
+                  console.log("cool!! huuhhh?");
+                }
